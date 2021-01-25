@@ -4,7 +4,7 @@
 
 ### Jdbc.url: postgresql://localhost/postgres"
 ### jdbc.user: postgres
-### jdbc.password: jrz020900 
+### jdbc.password: 123456 
 ### default_schema: gestao
 
 ### as configurações de acesso banco podem ser alteradas no arquivo GestaoProcedimentos/src/main/java/META-INF/persistente.xml
