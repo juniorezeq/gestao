@@ -4,7 +4,10 @@
 
 ### Jdbc.url: postgresql://localhost/postgres"
 ### jdbc.user: postgres
-### default_schema value: gestao
+### jdbc.password: jrz020900 
+### default_schema: gestao
+
+### as configurações de acesso banco podem ser alteradas no arquivo GestaoProcedimentos/src/main/java/META-INF/persistente.xml
 
 ### criar um schema no database postgres com o nome de "gestao"
 ### No Eclipse, após importar o projeto do git, clique com botão direito no projeto -> Run as -> Maven Install.
